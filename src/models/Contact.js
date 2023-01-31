@@ -11,7 +11,7 @@ const contactSchema = new Schema({
     type: String,
     required: true
   },
-  celphone: {
+  phone: {
     type: String,
     required: true
   },

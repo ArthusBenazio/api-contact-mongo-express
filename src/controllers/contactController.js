@@ -8,7 +8,7 @@ const contactController = {
         const contact = {
           name: req.body.name,
           email: req.body.email,
-          celphone: req.body.celphone,
+          phone: req.body.phone,
           cpf: req.body.cpf,
           address: req.body.address,
           message: req.body.message
